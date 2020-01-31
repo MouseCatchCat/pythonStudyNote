@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ff01dd82-a938-4307-8701-e3a3c78f4ee0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1W7NbAYaJ6HnGf9LOOwQOdWVWXT" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.classes">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="first-python-project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\Amy Cai\PycharmProjects\first-python-project\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/Include" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/Include/grammars.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="classes" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="first-python-project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\Amy Cai\PycharmProjects\first-python-project\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/Include" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/Include/classes.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="grammars" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="first-python-project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\Amy Cai\PycharmProjects\first-python-project\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/Include" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/Include/grammars.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="sort_student_app " type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="first-python-project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/Include" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/Include/sort_student_app.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="sort_student_app" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="first-python-project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\Amy Cai\PycharmProjects\first-python-project\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/Include" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/Include/sort_student_app.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="students" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="first-python-project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\Amy Cai\PycharmProjects\first-python-project\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv/Include" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/Include/students.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.classes" />
+      <item itemvalue="Python.grammars" />
+      <item itemvalue="Python.sort_student_app " />
+      <item itemvalue="Python.sort_student_app" />
+      <item itemvalue="Python.students" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.classes" />
+        <item itemvalue="Python.sort_student_app " />
+        <item itemvalue="Python.sort_student_app" />
+        <item itemvalue="Python.students" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ff01dd82-a938-4307-8701-e3a3c78f4ee0" name="Default Changelist" comment="" />
+      <created>1578496742148</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578496742148</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="95" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1578913003138">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="95" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680/0.-1080.1280.680@0.0.1280.680" timestamp="1578913003138" />
+    <state x="95" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1578679687209" />
+    <state x="420" y="96" key="FileChooserDialogImpl" timestamp="1578925816729">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="420" y="96" key="FileChooserDialogImpl/0.0.1280.680/0.-1080.1280.680@0.0.1280.680" timestamp="1578925816729" />
+    <state x="420" y="96" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1578571987496" />
+    <state width="1259" height="194" key="GridCell.Tab.0.bottom" timestamp="1580221835863">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="147" key="GridCell.Tab.0.bottom/0.0.1280.680/0.-1080.1280.680@0.0.1280.680" timestamp="1578928677082" />
+    <state width="1259" height="194" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1580221835863" />
+    <state width="1259" height="194" key="GridCell.Tab.0.center" timestamp="1580221835847">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="147" key="GridCell.Tab.0.center/0.0.1280.680/0.-1080.1280.680@0.0.1280.680" timestamp="1578928677082" />
+    <state width="1259" height="194" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1580221835847" />
+    <state width="1259" height="194" key="GridCell.Tab.0.left" timestamp="1580221835847">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="147" key="GridCell.Tab.0.left/0.0.1280.680/0.-1080.1280.680@0.0.1280.680" timestamp="1578928677082" />
+    <state width="1259" height="194" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1580221835847" />
+    <state width="1259" height="194" key="GridCell.Tab.0.right" timestamp="1580221835863">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="147" key="GridCell.Tab.0.right/0.0.1280.680/0.-1080.1280.680@0.0.1280.680" timestamp="1578928677082" />
+    <state width="1259" height="194" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1580221835863" />
+    <state width="1259" height="114" key="GridCell.Tab.1.bottom" timestamp="1578928677067">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="114" key="GridCell.Tab.1.bottom/0.0.1280.680/0.-1080.1280.680@0.0.1280.680" timestamp="1578928677067" />
+    <state width="1259" height="114" key="GridCell.Tab.1.center" timestamp="1578928677067">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="114" key="GridCell.Tab.1.center/0.0.1280.680/0.-1080.1280.680@0.0.1280.680" timestamp="1578928677067" />
+    <state width="1259" height="114" key="GridCell.Tab.1.left" timestamp="1578928677067">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="114" key="GridCell.Tab.1.left/0.0.1280.680/0.-1080.1280.680@0.0.1280.680" timestamp="1578928677067" />
+    <state width="1259" height="114" key="GridCell.Tab.1.right" timestamp="1578928677067">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1259" height="114" key="GridCell.Tab.1.right/0.0.1280.680/0.-1080.1280.680@0.0.1280.680" timestamp="1578928677067" />
+    <state x="142" y="0" key="SettingsEditor" timestamp="1580221012963">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="142" y="0" key="SettingsEditor/0.0.1280.680/0.-1080.1280.680@0.0.1280.680" timestamp="1578925949920" />
+    <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1580221012963" />
+    <state x="341" y="165" key="com.intellij.ide.util.TipDialog" timestamp="1579000262302">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="341" y="165" key="com.intellij.ide.util.TipDialog/0.0.1280.680/0.-1080.1280.680@0.0.1280.680" timestamp="1579000262302" />
+    <state x="341" y="165" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1578664308711" />
+  </component>
+</project>
